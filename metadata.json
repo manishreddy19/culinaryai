@@ -1,0 +1,7 @@
+{
+  "name": "CulinaryAI - Food Log & Recipe Assistant",
+  "description": "A smart food tracking and recipe generation app powered by Gemini. Log meals via text or photos, get instant nutritional breakdowns, and explore global cuisines with AI-guided recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
